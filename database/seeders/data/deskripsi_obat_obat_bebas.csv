@@ -1,0 +1,509 @@
+obat_id,label,nilai,urutan
+101,Product Description,"Paracetamol 500 mg Tablet merupakan obat yang dapat digunakan untuk meringankan rasa sakit pada sakit kepala, sakit gigi, dan menurunkan demam. Paracetamol bekerja pada pusat pengatur suhu di hipotalamus untuk menurunkan suhu tubuh (antipiretik) serta menghambat sintesis prostaglandin sehingga dapat mengurangi nyeri ringan sampai sedang (analgesik).",1
+101,Indikasi Umum,"Obat ini digunakan untuk meredakan nyeri ringan hingga sedang seperti sakit kepala, sakit gigi, nyeri otot, serta menurunkan demam.",2
+101,Komposisi,Paracetamol 500 mg.,3
+101,Dosis,"Dewasa: 1-2 kaplet, 3-4 kali per hari. Penggunaan maximum 8 kaplet per hari. Anak 7-12 tahun : 0.5 1 kaplet, 3-4 kali per hari. Penggunaan maximum 4 kaplet per hari.",4
+101,Aturan Pakai,Obat dapat diminum sebelum atau sesudah makan.,5
+101,Perhatian,"Hati-hati penggunaan pada pasien dengan gagal ginjal, gangguan fungsi hati, dan alergi atau mengalami hipersensitivitas terhadap paracetamol.",6
+101,Kontra Indikasi,Parasetamol jangan diberikan kepada penderita hipersensitif/alergi terhadap Paracetamol. Penderita gangguan fungsi hati berat.,7
+101,Efek Samping,"Demam, mual, nyeri lambung, kehilangan nafsu makan, urin berwarna gelap, tinja / kotoran berwarna coklat kemerahan, mata atau kulit berwarna kuning, tinja/kotoran berdarah atau berwarna hitam.",8
+101,Kemasan,1 Strip @ 10 Tablet,9
+101,Manufaktur,First Medifarma,10
+101,No. Registrasi,BPOM: GBL9607102904A1,11
+102,Product Description,"Alkohol Swab Onemed digunakan untuk antiseptik pre-injeksi, pemasangan IV, pengambilan darah, melepas jahitan, atau tindakan lainnya yang memerlukan antisepsi.",1
+102,Indikasi Umum,"Antiseptik untuk tindakan pre-injeksi, pemasangan IV, pengambilan darah, melepas jahitan, atau tindakan lainnya yang memerlukan antisepsi.",2
+102,Komposisi,Alkohol (Ethanol) 70%.,3
+102,Aturan Pakai,"Usapkan pada tempat yang akan diinjeksi, luka bekas injeksi/pengambilan darah, juga pada alat kesehatan.",4
+102,Perhatian,"Hanya untuk pemakaian luar dan sekali pakai, buanglah bekas alkohol swab ini pada limbah medis. Jauhkan dari jangkauan anak-anak.",5
+102,Kemasan,Box @ 100 Pcs,6
+102,Manufaktur,Jayamas Medica Industri,7
+102,No. Registrasi,Kemenkes RI: AKD 10903010280,8
+103,Product Description,Peditox Liquid merupakan obat dengan kandungan Permethrin 1% dalam bentuk liquid. Obat ini digunakan untuk pengobatan pada kutu rambut dan pencegahan pada epidemi kutu rambut.,1
+103,Indikasi Umum,Membasmi kutu rambut.,2
+103,Komposisi,Hexachlorocyclohexane 0.5%.,3
+103,Dosis,Cukup diaplikasikan satu kali per hari untuk membunuh kutu atau telurnya.,4
+103,Aturan Pakai,"Aplikasikan produk secukupnya ke rambut yang telah dicuci dengan sampo dan kulit kepala (terutama di daerah belakang telinga dan tengkuk leher). Diamkan sekitar 10 menit, bilas dengan air bersih dan keringkan dengan handuk.Jika masih terdapat kutu hidup dalam waktu 7 hari atau lebih sesudah pemberian aplikasi pertama berikan aplikasi yang kedua.",5
+103,Perhatian,"Penggunaan secara rutin, tidak direkomendasikan.",6
+103,Kontra Indikasi,Hipersensitivitas.,7
+103,Efek Samping,Panas pada kulit kepala.,8
+103,Kemasan,Botol @ 50 ml,9
+103,Manufaktur,Combiphar,10
+103,No. Registrasi,BPOM: DTL1304132941A1,11
+104,Product Description,"Antimo Anak Rasa Strawberry merupakan obat cair bersertifikat halal yang diformulasikan khusus untuk meredakan sekaligus mencegah mabuk perjalanan pada anak, yang ditandai dengan rasa mual, muntah, serta pusing.",1
+104,Indikasi Umum,"Meredakan mabuk perjalanan pada anak ketika pergi menggunaakan kendaraan bermotor, pesawat, kapal, atau kereta. Mengurangi rasa mual dan muntah.",2
+104,Komposisi,"Tiap sachet mengandung dimenhidrinat 12,5 mg.",3
+104,Dosis,"Anak-anak berusia 2 hingga 6 tahun: 1-2 sachet setiap 6 atau 8 jam/hari, maksimal 75 mg sehari. Anak-anak berusia 6 hingga 12 tahun: 2 sachet setiap 6-8 jam/hari, maksimal 150 mg sehari.",4
+104,Aturan Pakai,Dikonsumsi setelah setelah makan. Dapat diberikan pada anak setengah jam sebelum berpergian.,5
+104,Perhatian,Ibu hamil dan menyusui. Anak berusia di bawah 2 tahun. Pasien dengan gangguan fungsi hati.,6
+104,Kontra Indikasi,Penderita hipersensitif terhadap dimenhidrinat. Pasien yang menderita gangguan fungsi hati dan ginjal yang berat. Pasien yang menderita gangguan buang air kecil. Pasien yang mengalami tekanan pada saraf mata atau glaukoma. Pasien yang mengalami hipokalemia atau kekurangan kadar kalium dalam tubuh.,7
+104,Efek Samping,"Mengantuk, lemas atau lesu, pusing, sakit kepala.",8
+104,Kemasan,10 Sachet @ 5 ml,9
+104,Manufaktur,Phapros,10
+105,Product Description,"Demacolin adalah obat yang digunakan untuk meringankan gejala flu seperti demam, sakit kepala, hidung tersumbat dan bersin-bersin.",1
+105,Indikasi Umum,"Obat ini digunakan untuk meringankan gejala flu seperti demam, sakit kepala, hidung tersumbat dan bersin-bersin.",2
+105,Komposisi,"Paracetamol 500 mg, Pseudoefedrin HCL 7.5 mg, Klorfeniramin maleat 2 mg.",3
+105,Dosis,Dewasa : 1 tablet 3 kali per hari. Anak 6-12 tahun : 0.5 tablet 3 kali sehari.,4
+105,Aturan Pakai,Sebelum atau sesudah makan.,5
+105,Perhatian,"Hati-hati penggunaan pada penderita tekanan darah tinggi atau yang mempunyai potensi tekanan darah tinggi atau stroke seperti pada penderita dengan berat badan berlebih (over weight) atau usia lanjut. Tidak boleh melebihi dosisi yang dianjurkan. Bila dalam 3 hari gejala flyu tidak berkurang segera hubungi dokter atau unit pelayanan kesehatan. Hetintikan penggunaan obat ini jika terjadi susah tidur, jantung berdebar dan pusing. Kategori kehamilan : Belum terdapat data keamanan terkait penggunaan obat ini pada wanita hamil dan/atau menyusui. Konsultasikan kepada dokter apabila Anda sedang hamil dan/atau menyusui.",6
+105,Kontra Indikasi,"Pasien dengan riwayat hipersensitif terhadap salah satu komposisi dari Demacolin. Pasien yang memiliki riwayat gangguan fungsi hati yang berat. Pasien yang peka terhadap obat simpatomimetik lain, penderita tekanan darah tinggi berat dan yang mendapat terapi obat anti depresan MAO.",7
+105,Efek Samping,"Pemakaian obat umumnya memiliki efek samping tertentu dan sesuai dengan masing-masing individu. Jika terjadi efek samping yang berlebih dan berbahaya, harap konsultasikan kepada tenaga medis. Efek samping yang mungkin terjadi dalam penggunaan obat adalah: mengantuk, gangguan pencernaan, insomnia, gelisah, eksitasi, tremor, takikardi, aritmia ventrikuler, mulut kering, palpitasi sulit berkemih. Penggunaan dosis besar dan jangka panjang menyebabkan kerusakan hati.",8
+105,Kemasan,Strip @ 10 Tablet,9
+105,Manufaktur,Coronet Crown,10
+105,No. Registrasi,BPOM: DTL7204217010A1,11
+106,Product Description,"Sanmol Forte Tablet merupakan obat dengan kandungan Paracetamol 650 mg. Obat ini digunakan untuk meringankan rasa sakit pada keadaan sakit kepala, sakit gigi dan menurunkan demam. Sanmol Forte bekerja pada pusat pengatur suhu di hipotalamus untuk menurunkan suhu tubuh (antipiretik) serta menghambat sintesis prostaglandin sehingga dapat mengurangi nyeri ringan sampai sedang (analgetik).",1
+106,Indikasi Umum,"Obat ini digunakan untuk meringankan rasa sakit pada keadaan sakit kepala, sakit gigi dan menurunkan demam.",2
+106,Komposisi,Paracetamol 650 mg.,3
+106,Dosis,"Dewasa dan anak usia lebih dari 12 tahun : 1 tablet, diberikan 3-4 kali sehari.",4
+106,Aturan Pakai,Dikonsumsi sebelum atau sesudah makan.,5
+106,Perhatian,"Hati-hati penggunaan obat ini pada penderita penyakit ginjal. Bila setelah 2 hari demam tidak menurun atau setelah 5 hari nyeri tidak menghilang, segera hubungi Unit Pelayanan Kesehatan. Penggunaan obat ini pada penderita yang mengkonsumsi alkohol, dapat meningkatkan risiko kerusakan fungsi hati.",6
+106,Kontra Indikasi,"Penderita gangguan fungsi hati yang berat, hipersensitivitas terhadap Paracetamol.",7
+106,Efek Samping,"Pemakaian obat umumnya memiliki efek samping tertentu dan sesuai dengan masing-masing individu. Jika terjadi efek samping yang berlebih dan berbahaya, harap konsultasikan kepada tenaga medis. Efek samping yang mungkin terjadi dalam penggunaan obat adalah: Hematologi, reaksi kulit, reaksi alergi lainnya, kerusakan hati (penggunaan jangka panjang dan overdosis).",8
+106,Kemasan,1 Strip @ 4 Tablet,9
+106,Manufaktur,Sanbe Farma,10
+106,No. Registrasi,BPOM: DBL1122235610B1,11
+107,Product Description,"Koyo Salonpas merupakan plester dengan kandungan mentol, camphor, dan metil salisilat yang mambantu meredakan rasa nyeri yang disebabkan oleh nyeri otot, nyeri sendi, terkilir, dan punggung pegal.",1
+107,Indikasi Umum,"Membantu meredakan rasa nyeri yang disebabkan oleh nyeri otot, sakit otot leher, punggung pegal, sakit kepala, sakit gigi, memar, terkilir dan nyeri sendi.",2
+107,Komposisi,"Methyl salicilate 7.18 g , Menthol 5.66 g, dan Camphor 1.24 g.",3
+107,Dosis,"Dewasa dan anak > 12 tahun:cDi tempelkan di area yang sakit, lepaskan setelah 8 jam pemakaian atau plester diganti 23 kali per hari. Tidak boleh digunakan lebih dari 4 x sehari. Anak usia < 12 tahun: konsultasi ke dokter.",4
+107,Aturan Pakai,"Bersihkan dan keringkan bagian yang sakit, lepaskan kertas dan tempelkan salonpas koyo hijau ke bagian yang sakit, dan lepaskan setelah 8 jam pemakaian.",5
+107,Perhatian,"Hanya untuk pemakaian luar. Jangan digunakan pada luka atau kulit yang rusak, pada orang yang alergi terhadap aspirin atau salisilat. Hindari kontak dengan mata, selaput lendir, atau ruam.",6
+107,Kontra Indikasi,Hipersensitivitas.,7
+107,Efek Samping,"kemerahan, gatal, atau iritasi kulit.",8
+107,Kemasan,1 Sachet @ 10 Lembar,9
+107,Manufaktur,Hisamitsu,10
+107,No. Registrasi,BPOM: QL031800111,11
+108,Product Description,Lacto-B merupakan suplemen dengan kandungan probiotik yang membantu fungsi saluran pencernaan. Lacto-B dapat digunakan untuk mengobati diare dan pencegahan intoleransi laktosa pada anak 1-12 tahun.,1
+108,Indikasi Umum,Terapi pengobatan diare dan intoleransi laktosa.,2
+108,Komposisi,"Serbuk krim nabati, Dekstrosa, Campuran bakteri laktat (Lactobacillus Acidophilus, Bifidobacterium Longum, Streptococcus Thermophillus), Vitamin C, Vitamin B1, Vitamin B2, Vitamin B6, Niacin, Zinc",3
+108,Dosis,Anak 1-12 tahun : 3 sachet/hari.,4
+108,Aturan Pakai,Dapat dikonsumsi langsung dengan melarutkannya bersama air putih atau dikonsumsi bersama makanan untuk mengurangi ketidak-nyamanan pencernaan.,5
+108,Perhatian,"Gunakan berdasarkan petunjuk dokter. Hati-hati terhadap penggunaan Lacto-B jika memiliki reaksi alergi terhadap produk probiotik dan segera ke dokter jika muncul gejala dehidrasi, seperti mulut kering, menangis tanpa air mata, buang air kecil berkurang, tampak lemas dan mengantuk, atau rewel. Produk ini wajib dikirim melalui pengiriman Instant. Langsung dikonsumsi setelah dibuka. Simpan di bawah suhu 25 derajat Celcius.",6
+108,Kontra Indikasi,Hipersensitif terhadap produk probiotik.,7
+108,Efek Samping,"Reaksi efek samping yang mungkin terjadi diantaranya: perut kembung, rasa tidak nyaman pada perut, adanya reaksi alergi pada bakteri laktat (Lactobacillus Acidophilus, Bifidobacterium Longum, Streptococcus Thermophillus) yang biasanya ditandai dengan adanya pembengkakan pada wajah, bibir, lidah, atau tenggorokan atau gatal-gatal dan kemerahan pada kulit.",8
+108,Kemasan,"Box, 10 Sachet",9
+108,Manufaktur,Novell Pharmaceutical Laboratories,10
+108,No. Registrasi,BPOM: ML660618001081,11
+109,Product Description,"Degirol Lemon Tablet merupakan tablet hisap yang mengandung Dequalinium Chloride. Obat ini digunakan untuk mengobati sakit tenggorokan, radang atau infeksi pada rongga mulut dan tenggorokan, serta pencegahan flu dan batuk.",1
+109,Indikasi Umum,"Obat ini digunakan untuk sakit tenggorokan, peradangan pada rongga mulut dan tenggorokan seperti gingivitis, periodontitis, faringitis, laringitis dan angina, serta infeksi selaput lendir mulut seperti stomatitis.",2
+109,Komposisi,"Dequalinium Chloride 0,25 mg.",3
+109,Dosis,"Dewasa: 1 tablet dihisap, tiap 3 4 jam. Maksimal 8 tablet per hari",4
+109,Aturan Pakai,Satu tablet dibiarkan melarut perlahan-lahan di dalam mulut.,5
+109,Perhatian,Hindari pemakaian jangka panjang dan berulang. Belum terdapat data keamanan terkait penggunaan obat ini pada wanita hamil dan/atau menyusui. Konsultasikan kepada dokter apabila Anda sedang hamil dan/atau menyusui.,6
+109,Kontra Indikasi,Penderita Hipersensitif atau alergi terhadap Dequalinium Chloride.,7
+109,Efek Samping,"Pemakaian obat umumnya memiliki efek samping tertentu dan sesuai dengan masing-masing individu. Jika terjadi efek samping yang berlebih dan berbahaya, harap konsultasikan kepada tenaga medis.",8
+109,Kemasan,1 Strip @ 10 Tablet,9
+109,Manufaktur,Darya Varia Laboratoria,10
+109,No. Registrasi,BPOM: DBL9104508712A1,11
+110,Product Description,"Sanmol Tablet merupakan obat dengan kandungan Paracetamol 500 mg. Obat ini digunakan untuk meringankan rasa sakit pada keadaan sakit kepala, sakit gigi dan menurunkan demam. Sanmol bekerja pada pusat pengatur suhu di hipotalamus untuk menurunkan suhu tubuh (antipiretik) serta menghambat sintesis prostaglandin sehingga dapat mengurangi nyeri ringan sampai sedang (analgesik).",1
+110,Indikasi Umum,"Obat ini digunakan untuk meringankan rasa sakit pada keadaan sakit kepala, sakit gigi dan menurunkan demam.",2
+110,Komposisi,Setiap tablet mengandung Paracetamol 500 mg.,3
+110,Dosis,"Dewasa dan anak >12 tahun: 1 tablet, 3-4 kali per hari. Anak: 1/2 1 tablet, 3-4 kali sehari. Atau sesuai petunjuk dokter.",4
+110,Aturan Pakai,Obat dapat diminum sebelum atau sesudah makan.,5
+110,Perhatian,"Hati-hati penggunaan obat ini pada penderita penyakit ginjal. Bila setelah 2 hari demam tidak menurun atau setelah 5 hari nyeri tidak menghilang, segera hubungi Unit Pelayanan Kesehatan. Penggunaan obat ini pada penderita yang mengkonsumsi alkohol, dapat meningkatkan risiko kerusakan fungsi hati.",6
+110,Kontra Indikasi,Penderita gangguan fungsi hati yang berat. Hipersensitivitas terhadap Paracetamol.,7
+110,Efek Samping,"Pemakaian obat umumnya memiliki efek samping tertentu dan sesuai dengan masing-masing individu. Jika terjadi efek samping yang berlebih dan berbahaya, harap konsultasikan kepada tenaga medis. Efek samping yang mungkin terjadi dalam penggunaan obat adalah: Hematologi, reaksi kulit, reaksi alergi lainnya, kerusakan hati (penggunaan jangka panjang dan overdosis).",8
+110,Kemasan,1 Strip @ 4 Tablet,9
+110,Manufaktur,Sanbe Farma,10
+110,No. Registrasi,BPOM: DBL7622235610A2,11
+111,Product Description,"Produk multifungsi 4?in?1: double inhaler aromatherapy dan roll?on minyak angin dengan aroma fruity yang menyegarkan, juga bisa digunakan untuk kerokan dan pijat relaksasi",1
+111,Indikasi Umum,#NAME?,2
+111,Komposisi,"Double Inhaler (0,9?ml): Menthol 60?%, Eucalyptus Oil 27?%, Lemon Oil 1?%, pelarut hingga 100?%.\nRoll?On (8?ml): Menthol 40?%, Camphor 5?%, Methyl Salicylate 0.5?%, Olive Oil 10?%, Lemon Oil 0.25?%, pelarut hingga 100?%.",3
+111,Aturan Pakai,"Inhaler: Hirup sedalam mungkin sesering diperlukan untuk melegakan hidung tersumbat.\nRoll?On: Oleskan pada kening, dada, leher, atau bagian tubuh lain yang perlu.\nUntuk kerokan: gunakan tutup bulat sebagai alat kerokan ringan (punggung/pundak/leher).\nUntuk pijat relaksasi: gunakan ujung tumpul sebagai penekan lembut di otot yang pegal.",4
+111,Perhatian,Tidak untuk anak di bawah 2?tahun.\nJangan digunakan langsung di bawah lubang hidung (hindari kontak langsung inhaler ke kulit dekat lubang hidung).\nHanya untuk pemakaian luar.\nHentikan penggunaan jika muncul iritasi.,5
+111,Kontra Indikasi,"Hipersensitivitas terhadap menthol, camphor, methyl salicylate, lemon oil, eucalyptus oil, atau komponen lainnya.\nKulit luka terbuka, kulit teriritasi atau area kulit sensitif.\nAnak kecil di bawah usia 2 tahun tidak boleh menggunakan produk ini.",6
+111,Kemasan,Pieces @ 8 ml,7
+111,Manufaktur,"Ultra Sakti ,Pt.",8
+111,No. Registrasi,BPOM RI: QD236020821,9
+112,Product Description,"Strocain Tablet merupakan obat denagn kandungan Polymigel yang digunakan untuk mengatasi kelebihan asam lambung, ulkus lambung, usus 12 jari dengan gejala seperti mual, heartburn, dan kembung. Obat ini tidak boleh digunakan secara terus menerus selama 2 minggu kecuali atas perintah dokter.",1
+112,Indikasi Umum,"Sakit maag, Mual, Hiperasiditas, Nyeri perut, Kembung, yang disebabkan oleh ulkus/tukak lambung/usus halus & gastritis.",2
+112,Komposisi,Polymigel 400 mg.,3
+112,Dosis,Dewasa : 3-4 x sehari 1-2 tablet.,4
+112,Aturan Pakai,Diberikan 30-60 menit sebelum makan atau sebelum tidur.,5
+112,Perhatian,"Diet rendah fosfat, disfungsi ginjal, penggunaan lama, hiperkalsemia.",6
+112,Kontra Indikasi,"Hipo atau hipertirod, dialisis.",7
+112,Efek Samping,"Diare, konstipasi, mual, muntah.",8
+112,Kemasan,1 Strip @ 10 Tablet,9
+112,Manufaktur,Eisai,10
+112,No. Registrasi,BPOM: DBL7206102310A1,11
+113,Product Description,"FreshCare Smash Matcha 4 in 1 adalah produk inovatif yang menggabungkan double inhaler dan roll on dalam satu kemasan yang menyegarkan dan menghangatkan, dengan aroma Matcha yang khas. Produk ini pertama kali hadir di Indonesia dengan berbagai manfaat seperti untuk kerokan, pijat, dan relaksasi.",1
+113,Indikasi Umum,"Membantu meredakan perut kembung, pusing, gejala masuk angin, mabuk perjalanan, pegal-pegal, dan gatal akibat gigitan serangga.",2
+113,Komposisi,"Menthol 60%, Camphor 5.75%, Tea Seed Oil 0.25%, Base Ad 100%, Menthol 30%, Camphor 5%, Olive Oil 10%, Tea Seed Oil 0.25%, Base Ad 100%",3
+113,Dosis,Secukupnya.,4
+113,Aturan Pakai,"Gosokkan secukupnya pada kening, dada, hidung, atau bagian tubuh lain yang terasa sakit.",5
+113,Perhatian,"Obat luar, hanya untuk penggunaan di luar tubuh. Tidak digunakan untuk anak di bawah 2 tahun. Jangan digunakan langsung di bawah lubang hidung. Simpan di tempat yang tidak lebih dari suhu 30°C.",6
+113,Kemasan,Tube @ 8 ml,7
+113,Manufaktur,"Ultra Sakti ,PT.",8
+113,No. Registrasi,BPOM RI: QD212697651,9
+114,Product Description,"Esemag Sidomuncul mengandung zat aktif Curcuminoid dari Kunyit, Licorice dan meniran yang baik untuk membantu meringankan gangguan lambung seperti mual, muntah, rasa perih / tidak enak di ulu hati.",1
+114,Indikasi Umum,"Membantu meringankan gangguan lambung, seperti mual, muntah, rasa perih / tidak enak di ulu hati.",2
+114,Komposisi,"Curcuma domestica rhizoma extract 500mg, licorice extract 20mg, phyllanthus niruri herba extract 5mg, gula, fruktosa, madu.",3
+114,Dosis,"1 sachet, 3 x sehari",4
+114,Aturan Pakai,Sebelum atau sesudah makan,5
+114,Kemasan,Box @ 5 sachet,6
+114,Manufaktur,PT INDUSTRI JAMU DAN FARMASI SIDO MUNCUL TBK,7
+114,No. Registrasi,BPOM: TR142678931,8
+115,Product Description,"Obat ini digunakan untuk meringankan sakit kepala, sakit gigi, dan menurunkan demam.",1
+115,Komposisi,Tiap tablet mengandung: Paracetamol 600 mg dan Caffeine 50 mg,2
+115,Dosis,besar dapat menyebabkan kerusakan hati,3
+115,Perhatian,"Penderita dengan gangguan fungsi hati,Penderita yang hipersensitif terhadap salah satu atau seluruh komponen obat",4
+116,Product Description,"Paratusin digunakan untuk meringankan gejala-gejala flu seperti demam, sakit kepala, hidung tersumbat dan bersin-bersin yang disertai batuk. Noscapine sebagai antitusif yang bisa menekan refleks batuk. Paracetamol berefek meredakan demam dan pereda nyeri. Chlorpheniramine maleate yang bekerja sebagai antihistamin/anti alergi untuk meredakan gejala alergi seperti bersin-bersin. Gliceryl guaiacolate digunakan sebagai ekspektoran atau peluruh dahak sehingga dapat meringankan gejala flu seperti demam, sakit kepala, hidung tersumbat dan bersin-bersin yang disertai batuk.",1
+116,Indikasi Umum,"Obat ini digunakan untuk meringankan gejala-gejala flu seperti demam, sakit kepala, hidung tersumbat dan bersin-bersin yang disertai batuk.",2
+116,Komposisi,"Noscapine 10 mg, chlorpheniramine maleate 2 mg, glyceryl guaiacolate 50 mg, paracetamol 500 mg, phenylpropanolamine HCl 15 mg.",3
+116,Dosis,Dewasa: 3 kali sehari 1 tablet. Anak (6 12 tahun) : 3 kali sehari 1/2 tablet.,4
+116,Aturan Pakai,Obat diminum sesudah makan.,5
+116,Perhatian,"Hati-hati penggunaan pada penderita dengan gangguan fungsi hati dan ginjal, glaukoma, hipertrofi prostat, hipertiroid dan retensi urin. Tidak dianjurkan penggunaan pada anak usia dibawah 6 tahun, wanita hamil dan menyusui, kecuali atas petunjuk dokter. Hati-hati penggunaan bersamaan dengan obat-obat lain yang menekan susunan syaraf pusat. Selama minum obat ini tidak boleh mengendarai kendaraan bermotor atau menjalankan mesin. Penggunaan pada penderita yang mengkonsumsi alkohol dapat meningkatkan resiko kerusakan fungsi hati.",6
+116,Kontra Indikasi,Penderita dengan gangguan fungsi hati berat. Wanita usia subur karena mempunyai efek mutagenik yang potensial. Penderita yang hipersensitif terhadap salah satu komponen obat ini. Penderita dengan gangguan jantung dan diabetes melitus.,7
+116,Efek Samping,"Mengantuk, gangguan pencernaan, gangguan psikomotor, takikardi, aritmia, mulut kering, palpitasi, retensi urin. Penggunaan dosis besar dan jangka panjang menyebabkan kerusakan hati.",8
+116,Kemasan,1 Strip @ 10 Tablet,9
+116,Manufaktur,Darya Varia Laboratoria,10
+116,No. Registrasi,BPOM: DTL1604525010A1,11
+117,Product Description,"Hansaplast Wound Ointment merupakan salep penutup luka dengan kandungan white petrolatum, thin paraffin oil, ceresin wax, glycerin, panthenol, glyceryl stearate. Formulasi pada produk ini digunakan untuk membantu proses penyembuhan luka dengan mengurangi risiko luka membekas, melindungi dan menenangkan kulit yang rusak seperti kering dan pecah-pecah.",1
+117,Indikasi Umum,"Membantu penyembuhan luka, mengurangi resiko terjadinya bekas luka, untuk luka bakar minor, sunburn, ruam kulit bayi.",2
+117,Komposisi,"White Petrolatum, Thin Paraffin Oil, Ceresin Wax, Glycerin, Panthenol, Glyceryl Stearate.",3
+117,Dosis,Dioleskan minimal 2x per hari pada bagian yang sakit.,4
+117,Aturan Pakai,"Di oleskan pada bagian yang sakit. Setelah dioles, luka dapat ditutup dengan plester jika diperlukan.",5
+117,Perhatian,"Kebanyakan luka dapat dirawat dengan baik di rumah, tetapi penting untuk berkonsultasi dengan dokter dan ikuti saran medis jika terjadi beberapa situasi seperti: Jika luka dalam dan tidak kunjung berhenti mengeluarkan darah, Jika luka menunjukkan gejala infeksi seperti kemerahan, panas, nyeri, dan pembengkakan, Jika ada benda asing yang tertingggal dalam luka.",6
+117,Kemasan,Tube @ 20 Gram,7
+117,Manufaktur,Beiersdorf Indonesia,8
+117,No. Registrasi,Kemenkes RI: AKL21603918628,9
+118,Product Description,Balsem Telon Tresno Joyo membantu menghangatkan tubuh sekaligus melegakan hidung tersumbat akibat gejala pilek dan batuk pada anak.,1
+118,Indikasi Umum,"Mencegah dan mengobati masuk angin dan perut kembung pada bayi dan anak, juga dapat digunakan untuk ibu dan anak, juga dapat digunakan untuk ibu setelah melahirkan. Mengatasi rasa gatal dan mencegah terjadinya iritasi serta keinginan untuk menggaruk. Melegakan pernafasan karena hidung tersumbat, batuk, flu dan pilek. Meringankan sakit kepala.",2
+118,Komposisi,"Aqua , Dibutyl Adipate , octocrylene , TitanIUm Dioxide , C12 15 Alkil Benzoat , gliserin , Dimethicone , butyl methoxydibenzoylmethane, Dietilamino Hydroxybenzoyl Hexyl Benzoat , PVP / Eicosene Copolymer , Panthenol , Bis Ethylhexyloxyphenol Methoxyphenyl Triazine , mikrokristalin Selulosa , Lauryl glucoside , cetearyl Alkohol , Cetyl palmitat , Cocoglycerides , diethylhexyl Butamido Triazone , gliseril Stearate , Tokoferil Asetat , Phenoxyethanol , SodIUm Sulfat cetearyl , Polyglyceryl 2 Dipolyhydroxystearate , Silica , Benzyl Alcohol , Selulosa gum , Parfum , Xanthan gum , sorbat Acid , Ethylhexylglycerin , DisodIUm EDTA , Asam Dehydracetic , Inulin , Lecithin.",3
+118,Dosis,Sesuai kebutuhan.,4
+118,Aturan Pakai,"Hirupkan dan oleskan pada dada dan punggung sebelum tidur, membuat anak Anda tidur lebih nyenyak.",5
+118,Kemasan,Tube @ 20 Gram,6
+118,Manufaktur,Ultrasakti,7
+118,No. Registrasi,BPOM: QD123711141,8
+119,Product Description,"Sriti Krim dapat digunakan untuk mengobati segala macam masalah kulit seperti jamuran, kadas, kurap, kudis, panuan, gatal-gatal, kemerahan, dan gatal.",1
+119,Indikasi Umum,"Digunakan untuk mengobati segala macam masalah kulit seperti jamuran, kadas, kurap, kudis, panuan, gatal-gatal, kemerahan.",2
+119,Komposisi,"Benzethonium Chlorida 0,2%.",3
+119,Dosis,Oleskan 2-3 kali sehari.,4
+119,Aturan Pakai,Oleskan tipis-tipis pada daerah yang sakit.,5
+119,Perhatian,Hanya untuk pemakaian luar. Jangan digunakan pada luka yang terbuka dan jangan sampai terkena mata. Tidak dapat digunakan dalam jangka panjang.,6
+119,Efek Samping,"Atrofi kulit, jerawat, alergi, peradangan folikel rambut.",7
+119,Kemasan,Tube @ 10 Gram,8
+119,Manufaktur,Tri Tunggal Cipta Anugerah,9
+119,No. Registrasi,BPOM: PKD20501900605,10
+120,Product Description,"Paracetamol kaplet merupakan obat yang dapat digunakan untuk meringankan rasa sakit pada sakit kepala, sakit gigi, dan menurunkan demam. Paracetamol bekerja pada pusat pengatur suhu di hipotalamus untuk menurunkan suhu tubuh (antipiretik) serta menghambat sintesis prostaglandin sehingga dapat mengurangi nyeri ringan sampai sedang (analgesik).",1
+120,Indikasi Umum,"Obat ini digunakan untuk meredakan nyeri ringan hingga sedang seperti sakit kepala, sakit gigi, nyeri otot, serta menurunkan demam.",2
+120,Komposisi,Paracetamol 500 mg.,3
+120,Dosis,Dewasa dan anak-anak 12 tahun ke atas: 1-2 kaplet sebanyak 3-4 kali/hari. Anak-anak 6-12 tahun: kaplet sebanyak 3-4 kali/hari.,4
+120,Aturan Pakai,Dapat dikonsumsi dengan atau tanpa makanan.,5
+120,Perhatian,Pasien yang mengalami kekurangan gizi kronis. Ibu hamil dan menyusui Pasien yang mengonsumsi alkohol. Pasien yang mengalami gangguan fungsi ginjal berat. Pasien penderita gangguan fungsi hati.,6
+120,Kontra Indikasi,Pasien penderita penyakit hati berat. Pasien yang memiliki alergi terhadap paracetamol.,7
+120,Efek Samping,Penggunaan untuk jangka waktu lama dan dosis besar dapat menyebabkan kerusakan fungsi hati. Reaksi hipersensitifitas/ alergi.,8
+120,Kemasan,1 Strip @ 10 Kaplet,9
+121,Product Description,"Combantrin Tablet 250 mg merupakan obat cacing yang bekerja untuk mengatasi cacing kremi (Enterobius vermicularis), cacing gelang (Ascaris lumbricoides), cacing tambang (Ancylostoma duodenale), Cacing tambang (Necator americanus), cacing Trichostrongyfus colubriformis dan Trichostrongylus orientalls. Obat ini mengandung zat aktif Pirantel Pamoat yang bekerja dengan melumpuhkan cacing dan mengeluarkannya dari dalam tubuh melalui tinja, biasanya tanpa memerlukan pencahar.",1
+121,Indikasi Umum,"Obat cacing yang digunakan untuk mengatasi infeksi cacing kremi (enterobius vermicularis), cacing gelang (ascaris lumbricoides), cacing tambang (ancylostoma duodenale), cacing tambang (necator americanus), cacing trichostrongylus colubriformis dan trichostrongylus orientalis.",2
+121,Komposisi,Setiap tablet Combantrin 250 mg mengandung Pirantel Pamoat setara dengan pirantel base 250 mg.,3
+121,Dosis,"Anak usia 2-6 tahun: 0.5-1 tablet, diberikan sekali. Anak usia 6-12 tahun: 1-1.5 tablet, diberikan sekali. Di atas usia 12 tahun: 1.5-2 tablet, diberikan sekali.",4
+121,Aturan Pakai,Dapat dikonsumsi sebelum atau sesudah makan.,5
+121,Perhatian,Sebaiknya hindarkan penggunaan Combantrin semasa hamil dan anak usia dibawah 2 tahun karena kemanan penggunaannya belum diteliti / banyak diketahui. Penggunaan Combantrin pada penderita gangguan hati sebaiknya berhati-hati. Pemberian dengan piperazine dapat menyebabkan efek antagonis.,6
+121,Kontra Indikasi,Penderita hipersensitif.,7
+121,Efek Samping,"Nafsu makan hilang, mual, muntah, diare, sakit kepala, pusing, rasa mengantuk, merah-merah pada kulit, keringat dingin, pruritus, urtikaria.",8
+121,Kemasan,1 Strip @ 2 Tablet,9
+121,Manufaktur,Pfizer,10
+121,No. Registrasi,BPOM: DTL7219802210B1,11
+122,Product Description,"Dexanta Tablet adalah obat yang digunakan untuk mengurangi gejala pada gangguan pencernaan yang diakibatkan tingginya produksi asam lambung, seperti peradangan dinding lambung (gastritis), maag, luka atau tukak pada dinding lambung, dan luka pada dinding usus dua belas jari (tukak duodenum).",1
+122,Indikasi Umum,"Mengurangi gejala kelebihan asam lambung (maag). Mengobati radang lambung (gastritis). Mengatasi rasa tidak nyaman pada perut bagian atas setelah mengkonsumsi makanan atau minuman tertentu (dispepsia). Mengobati luka yang muncul pada dinding lambung akibat terkikisnya lapisan dinding lambung (tukak lambung). Mengobati luka terbuka yang timbul di dinding usus 12 jari (tukak duodenum) dengan gejala, seperti mual, nyeri lambung, nyeri ulu hati, kembung, perasaan penuh pada lambung. Mengatasi kondisi bagian atas lambung masuk ke rongga dada (hiatus hernia).",2
+122,Komposisi,"Al(OH)3 200 mg, Mg(OH)2 200 mg, simethicone 20 mg.",3
+122,Dosis,3 x sehari 1-2 tablet kunyah.,4
+122,Aturan Pakai,Diberikan diantara waktu makan. Tablet dikunyah sampai halus sebelum ditelan.,5
+122,Perhatian,"Diare, konstipasi, obstruksi intestinal (dosis besar).",6
+122,Kontra Indikasi,HIpersensitif.,7
+122,Efek Samping,"Diare, konstipasi, obstruksi intestinal (dosis besar).",8
+122,Kemasan,1 Strip @ 10 Tablet,9
+122,Manufaktur,Dexa Medica,10
+122,No. Registrasi,BPOM: DBL7605006363A1,11
+123,Product Description,"Hufamag Plus merupakan obat yang digunakan untuk mengatasi gangguan pada saluran pencernaan seperti gastritis, perut kembung, maag, dispepsia, hiatus hernia, tukak lambung dan tukak usus duabelas jari.",1
+123,Indikasi Umum,"Mengatasi gangguan pada saluran pencernaan seperti gastritis, perut kembung, maag, dispepsia, hiatus hernia, tukak lambung dan tukak usus duabelas jari.",2
+123,Komposisi,"Aluminium hidroksida gel kering 300 mg, magnesium trisilikat 300 mg, simetikon 25 mg.",3
+123,Dosis,3 kali sehari 1-2 tablet,4
+123,Aturan Pakai,Dikonsumsi sesudah makan.,5
+123,Kemasan,1 Strip @ 10 tablet,6
+123,Manufaktur,GRATIA HUSADA FARMA,7
+123,No. Registrasi,BPOM: DBL9007801563A1,8
+124,Product Description,"Counterpain Cream merupakan krim pereda nyeri untuk meringankan rasa sakit pada otot, nyeri sendi, keseleo, dan nyeri akibat encok.",1
+124,Indikasi Umum,"Meringankan rasa sakit pada otot, nyeri sendi, keseleo, dan nyeri akibat encok.",2
+124,Komposisi,"Methyl salicylate 102 mg, Menthol 54.4 mg, Eugenol 13.6 mg.",3
+124,Dosis,Gunakan sehari 1-3 kali.,4
+124,Aturan Pakai,Dioleskan dibagian yang sakit.,5
+124,Perhatian,Hanya untuk pemakaian luar. Jauhkan dari jangkauan anak-anak.,6
+124,Kontra Indikasi,"Hentikan penggunaan jika nyeri radang sendi lebih dari 10 hari atau jika kulit menjadi merah, jangan digunakan pada kulit dengan luka terbuka atau teriritasi, hindari kontak dengan mata atau membran mukosa.",7
+124,Efek Samping,"Pemakaian obat umumnya memiliki efek samping tertentu dan sesuai dengan masing-masing individu. Jika terjadi efek samping yang berlebih dan berbahaya, harap konsultasikan kepada tenaga medis. Efek samping yang mungkin terjadi dalam penggunaan obat adalah: iritasi kulit ringan, gatal-gatal.",8
+124,Kemasan,Tube @ 5 Gram,9
+124,Manufaktur,Taisho Pharmaceutical,10
+124,No. Registrasi,BPOM: QD111709511,11
+125,Product Description,Betadine Solution mengandung zat aktif Povidone Iodine 10%. Betadine solution merupakan antiseptik pada luka untuk membunuh kuman penyebab infeksi.,1
+125,Indikasi Umum,Cairan antiseptik pada luka untuk membunuh kuman penyebab infeksi.,2
+125,Komposisi,Povidone iodine 10 %.,3
+125,Dosis,Dapat digunakan beberapa kali dalam sehari dengan konsentrasi penuh baik untuk mengoles maupun kompres.,4
+125,Aturan Pakai,Oles atau kompres pada bagian yang luka.,5
+125,Perhatian,Hati-hati pada penderita yang hipersensitif terhadap iodium.,6
+125,Kontra Indikasi,Hipersensitivitas terhadap iodine.,7
+125,Efek Samping,Iritasi lokal. Hentikan pemakaian apabila terjadi reaksi lokal.,8
+125,Kemasan,Botol @ 5 ml,9
+125,Manufaktur,Mundipharma Healthcare Indonesia,10
+125,No. Registrasi,Kemenkes RI: PKD20501710078,11
+126,Product Description,Vicks Vaporub adalah obat gosok untuk meringankan gejala pilek dan batuk karena flu.,1
+126,Indikasi Umum,Obat gosok untuk meringankan gejala pilek dan batuk karena flu.,2
+126,Komposisi,"Setiap kemasan 10gr mengandung: camphor 526mg, menthol 282mg dan eucalyptus oil 133mg.",3
+126,Dosis,Digunakan sesuai dengan kebutuhan.,4
+126,Aturan Pakai,"Gunakan setiap kali diperlukan pada dada, leher dan punggung untuk usia 2 tahun ke atas.",5
+126,Kemasan,Pot @ 10 Gram,6
+126,Manufaktur,Darya Varia Laboratoria,7
+126,No. Registrasi,BPOM: QL031700281,8
+127,Product Description,"Paramex Tablet merupakan obat dengan kandungan Paracetamol, Propyphenazone, Caffeine, Dexchlorpheniramine maleate. Obat ini dapat digunakan untuk meringankan sakit kepala dan sakit gigi.",1
+127,Indikasi Umum,Meringankan sakit kepala dan sakit gigi.,2
+127,Komposisi,"Paracetamol 250 mg, Propyphenazone 150 mg, Caffeine 50 mg, Dexchlorpheniramine maleate 1 mg.",3
+127,Dosis,besar atau terapi jangka panjang dapat menyebabkan kerusakan hati.,4
+127,Aturan Pakai,Dikonsumsi sesudah makan.,5
+127,Perhatian,"Hati-hati penggunaan pada penderita porphyria akut karena dapat menimbulkan porphyrinogenic Bila setelah 5 hari nyeri tidak hilang, segera hubungi dokter Obat ini dapat menyebabkan kantuk Penggunaan pada penderita yang mengkonsumsi alkohol dapat meningkatkan resiko kerusakan hati.",6
+127,Kontra Indikasi,Hipersensitif terhadap parasetamol. Pasien dengan disfungsi hati dan ginjal.,7
+127,Efek Samping,Mengantuk.,8
+127,Kemasan,1 Strip @ 4 Tablet,9
+127,Manufaktur,Konimex,10
+127,No. Registrasi,BPOM: DTL7813003810A1,11
+128,Product Description,"Panadol Extra merupakan obat dengan kandungan Paracetamol dan Caffeine. Obat ini dapat digunakan untuk meringankan sakit kepala dan sakit gigi. Paracetamol sebagai analgetik, bekerja dengan meningkatkan ambang rasa sakit dan Caffeine bekerja dengan menghambat kerja reseptor adenosin sehingga mengurangi rasa nyeri.",1
+128,Indikasi Umum,Obat ini digunakan untuk meringankan sakit kepala dan sakit gigi.,2
+128,Komposisi,Tiap tablet mengandung Paracetamol 500 mg dan Caffeine 65 mg.,3
+128,Dosis,"Dewasa dan anak-anak lebih dari 12 tahun : 1 Kaplet, ditelan dengan segelas air, 3-4 kali sehari bila gejala memburuk. Tidak melebihi 8 kaplet dalam 24 jam. Minimum interval penggunaan dosis adalah 4 jam.",4
+128,Aturan Pakai,Sebelum atau sesudah makan.,5
+128,Perhatian,"Hati-hati penggunaan obat ini pada penderita penyakit ginjal. Bila setelah 2 hari demam tidak menurun atau setelah 5 hari nyeri tidak menghilang, segera hubungi Unit Pelayanan Kesehatan. Penggunaan obat ini pada penderita yang mengkonsumsi alkohol, dapat meningkatkan risiko kerusakan fungsi hati.",6
+128,Kontra Indikasi,Wanita hamil dan menyusui. Tidak dianjurkan untuk digunakan pada anak dibawah usia 12 tahun,7
+128,Efek Samping,"Pemakaian obat umumnya memiliki efek samping tertentu dan sesuai dengan masing-masing individu. Jika terjadi efek samping yang berlebih dan berbahaya, harap konsultasikan kepada tenaga medis. Penggunaan jangka panjang dan dosis besar dapat menyebabkan kerusakan hati. Efek samping lain yaitu reaksi hipersensitifitas seperti kemerahan atau gatal pada kulit, kulit terkelupas, kadang-kadang gangguan pernafasan atau bengkak pada bibir, lidah, tenggorokan, sariawan, memar-memar, pendarahan. Namun, reaksi efek samping jarang terjadi. Hentikan penggunaan obat dan segera hubungi dokter jika mengalami efek samping.",8
+128,Kemasan,1 Strip @ 10 Tablet,9
+128,Manufaktur,Sterling,10
+128,No. Registrasi,BPOM: DBL9424502004A1,11
+129,Product Description,"Fasidol 500 mg merupakan obat yang digunakan untuk mengatasi demam dan sebagai perda nyeri seperti sakit kepala, sakit gigi dan nyeri ringan lainnya.",1
+129,Indikasi Umum,"Meringankan rasa sakit pada keadaan sakit kepala, sakit gigi dan menurunkan demam",2
+129,Komposisi,Paracetamol 500 mg,3
+129,Dosis,"Dewasa: 1-2 kaplet, 3-4 kali per hari. Penggunaan maximum 8 kaplet per hari. Anak 7-12 tahun: 0.5 - 1 kaplet, 3-4 kali per hari. Penggunaan maximum 4 kaplet per hari.",4
+129,Aturan Pakai,Sesudah makan,5
+129,Perhatian,"Bila setelah 2 hari demam tidak menurun atau setelah 5 hari nyeri tidak menghilang, segera hubungi unit pelayan kesehatan",6
+129,Efek Samping,"Penggunaan jangka panjang dan dosis besar dapat menyebabkan kerusakan hati, Reaksi hipersensitifitas",7
+129,Kemasan,Strip @ 10 Tablet,8
+129,Manufaktur,Ifars,9
+129,No. Registrasi,BPOM RI : DBL9509204704A1,10
+130,Product Description,"Fasidol 500 mg merupakan obat yang digunakan untuk mengatasi demam dan sebagai perda nyeri seperti sakit kepala, sakit gigi dan nyeri ringan lainnya.",1
+130,Indikasi Umum,"Meringankan rasa sakit pada keadaan sakit kepala, sakit gigi dan menurunkan demam",2
+130,Komposisi,Paracetamol 500 mg,3
+130,Dosis,"Dewasa: 1-2 kaplet, 3-4 kali per hari. Penggunaan maximum 8 kaplet per hari. Anak 7-12 tahun: 0.5 - 1 kaplet, 3-4 kali per hari. Penggunaan maximum 4 kaplet per hari.",4
+130,Aturan Pakai,Sesudah makan,5
+130,Perhatian,"Bila setelah 2 hari demam tidak menurun atau setelah 5 hari nyeri tidak menghilang, segera hubungi unit pelayan kesehatan",6
+130,Efek Samping,"Penggunaan jangka panjang dan dosis besar dapat menyebabkan kerusakan hati, Reaksi hipersensitifitas",7
+130,Kemasan,Strip @ 10 Tablet,8
+130,Manufaktur,Ifars,9
+130,No. Registrasi,BPOM RI : DBL9509204704A1,10
+131,Product Description,"Bodrex Extra Kaplet merupakan obat dengan kandungan Paracetamol, ibuprofen, caffeine. Obat ini dapat digunakan untuk meredakan sakit kepala pada migrain.",1
+131,Indikasi Umum,Untuk meredakan sakit kepala.,2
+131,Komposisi,"Paracetamol 350 mg, Ibuprofen 200 mg, Caffeine 50 mg.",3
+131,Dosis,Dewasa dan anak >12 tahun : 1-2 kaplet. Anak 6-12 tahun : 1/2-1 kaplet. Diberikan 3-4 kali sehari.,4
+131,Aturan Pakai,Dikonsumsi sesudah makan.,5
+131,Perhatian,"Gangguan hati, penyakit ginjal berat, penyakit jantung, hipertensi, asma, lupus, eritematosus sistemik atau penyakit lain yang menyebabkan gangguan keseimbangan cairan tubuh, gangguan pemekuan darah. Dapat meningkatkan risiko gangguan fungsi hati pada pasien.",6
+131,Kontra Indikasi,"Tukak lambung atau duodenum berat dan aktif. Penggunaan bersama dengan AINS lain dapat menyebabkan gejala asma, rinitis, atau ruam kulit. Hamil trimester ke-3",7
+131,Efek Samping,"Gangguan saluran cerna seperti mual, muntah, nyeri ulu hati, kemerahan pada kulit dan gangguan darah (tromboistopenia, limfopenia). Reaksi hipersensitivitas, terutama pada penderita dengan riwayat asma, atau reaksi alergi lain terhadap golongan OAINS (Obat Anti Inflamasi Non Steroid). Kerusakan fungsi hati pada pemerian dosis besar atau pada penderita yang mengkonsumsi alkohol. Penurunan ketajaman penglihatan dan kesulitan membedakan warna dapat terjadi tetapi sangat jarang dan akan sembuh bila penggunaan dihentikan.",8
+131,Kemasan,1 Strip @ 4 Kaplet,9
+131,Manufaktur,Tempo Scan Pacific,10
+131,No. Registrasi,BPOM: DTL0622719204A1,11
+132,Product Description,"Koyo Salonpas Hot merupakan plester pereda rasa nyeri yang disebabkan oleh nyeri otot, nyeri sendi, terkilir, dan punggung pegal dengan sensasi hangat.",1
+132,Indikasi Umum,"Membantu meredakan rasa nyeri yang disebabkan olehnyeri otot, sakit otot leher, punggung pegal, sakit kepala, sakit gigi, memar, terkilir dan nyeri sendi.",2
+132,Komposisi,"Methyl salicilate 2,76 gr, capsicum extract 4,61 gr.",3
+132,Dosis,3-4 kali sehari.,4
+132,Aturan Pakai,"Tempelkan pada bagian yang sakit, selama 8 jam.",5
+132,Perhatian,Kulit yang rusak atau luka. Alergi aspirin atau salisilat.,6
+132,Efek Samping,Reaksi alergi.,7
+132,Kemasan,Sachet @ 10 Lembar,8
+132,Manufaktur,Hisamitsu,9
+132,No. Registrasi,BPOM: QL041800311,10
+133,Product Description,"Neozep Forte merupakan obat pereda flu dengan kandungan Paracetamol, Phenylpropanolamine, Salisilamida, dan Chlorpheniramine maleat. Paracetamol digunakan sebagai pereda demam dan sakit kepala, Phenylpropanolamine digunakan untuk mengobati gejala hidung tersumbat. Chlorpheniramine maleate bekerja sebagai antihistamin atau anti alergi sehingga obat ini digunakan untuk mengatasi gejala flu seperti demam, sakit kepala, hidung tersumbat, dan bersin-bersin yang disertai batuk.",1
+133,Indikasi Umum,"Mengobati gejala flu, seperti: hidung tersumbat, demam, pusing, dan bersin-bersin.",2
+133,Komposisi,"Phenylpropanolamine HCl 15 mg, Paracetamol 250 mg, Salicylamide 150 mg, Chlorpheniramine maleate 2 mg.",3
+133,Dosis,Dewasa: 3-4 x sehari 1 tablet Anak usia 6-12 tahun: 3-4 x sehari setengah tablet.,4
+133,Aturan Pakai,"nya. Tidak boleh diberikan pada penderita yang sensitif atau alergi terhadap obat simpatomimetik lain (seperti: efedrin, pseudoefedrin, fenilefrin), penderita tekanan darah tinggi, dan individu yang sedang mengkonsumsi anti depresan tipe penghambat monoamin oksidase (MAOI). Hati-hati penggunaan obat ini pada individu yang berpotensi mengalami tekanan darah tinggi atau stroke, atau individu usia lanjut. Hentikan penggunaan obat ini jika terjadi susah tidur, jantung berdebar, dan pusing.",5
+133,Perhatian,"Peringatan: Awas, Obat Keras Bacalah",6
+133,Kontra Indikasi,Hipersensitif,7
+133,Efek Samping,"Mengantuk, efek samping ringan pada saluran pencernaan misalnya mual dan muntah. Pada penggunaan dosis yang lebih tinggi diketahui meningkatkan resiko terjadinya perdarahan lambung.",8
+133,Kemasan,1 Strip @ 4 Tablet,9
+133,Manufaktur,Darya Varia Laboratoria,10
+133,No. Registrasi,BPOM: DTL1504523110A1,11
+134,Product Description,"Panadol merupakan obat dengan kandungan Paracetamol yang dapat digunakan untuk meringankan rasa sakit pada sakit kepala, sakit gigi, sakit pada otot dan menurunkan demam. Paracetamol bekerja pada pusat pengatur suhu di hipotalamus untuk menurunkan suhu tubuh (antipiretik) serta menghambat sintesis prostaglandin sehingga dapat mengurangi nyeri ringan sampai sedang (analgesik).",1
+134,Indikasi Umum,"Meredakan nyeri ringan hingga sedang seperti sakit kepala, sakit gigi, sakit pada otot, serta menurunkan demam.",2
+134,Komposisi,Paracetamol 500 mg.,3
+134,Dosis,"Dewasa dan anak usia lebih dari 12 tahun : 1 - 2 kaplet, 3-4 kali sehari (Maksimum 8 kaplet dalam 24 jam). Anak-anak usia 6-11 tahun : 1/2 - 1 kaplet, 3-4 kali sehari (maksimum 4 kaplet dalam 24 jam). Minimum interval penggunaan dosis adalah 4 jam. Jangan melebihi dosis yang dianjurkan, atau menurut aturan dokter.",4
+134,Aturan Pakai,Dikonsumsi sebelum atau sesudah makan.,5
+134,Perhatian,"Hati-hati penggunaan obat ini pada penderita penyakit ginjal. Bila setelah 2 hari demam tidak menurun atau setelah 5 hari nyeri tidak menghilang, segera hubungi Unit Pelayanan Kesehatan. Penggunaan obat ini pada penderita yang mengkonsumsi alkohol, dapat meningkatkan risiko kerusakan fungsi hati.",6
+134,Kontra Indikasi,Penderita yang hipersensitif terhadap paracetamol dan bahan lain dalam obat ini. Penderita dengan gangguan fungsi hati.,7
+134,Efek Samping,"Reaksi hipersensitifitas seperti kemerahan atau gatal pada kulit, kulit terkelupas, kadang-kadang gangguan pernafasan atau bengkak pada bibir, lidah, tenggorokan, sariawan, memar-memar, pendarahan. Namun, reaksi efek samping jarang terjadi. Hentikan penggunaan obat dan segera hubungi dokter jika mengalami efek samping.",8
+134,Kemasan,1 Blister @ 10 Kaplet,9
+134,Manufaktur,GlaxoSmithKline Indonesia,10
+134,No. Registrasi,BPOM: DBL9624502804A1,11
+135,Product Description,"Neo Rheumacyl merupakan obat dengan kandungan Paracetamol dan Ibuprofen. Obat ini dapat digunakan untuk meredakan nyeri otot, nyeri sendi, dan pegal linu. Paracetamol sebagai analgetik, bekerja dengan meningkatkan ambang rasa sakit dan sebagai antipiretik yang diduga bekerja langsung pada pusat pengatur panas di hipotalamus. Sedangkan Ibuprofen mempunyai efek anti inflamasi, analgesik dan antipiretik dan bekerja dengan cara menghambat prostaglandin.",1
+135,Indikasi Umum,"Untuk meringankan nyeri sedang sampai berat pada otot dan sendi, pegal linu, nyeri haid dan nyeri sesudah pembedahan.",2
+135,Komposisi,"Ibuprofen 200 mg, Paracetamol 500 mg.",3
+135,Dosis,"Dewasa : 1 tablet, 3-4 kali sehari.",4
+135,Aturan Pakai,Sesudah makan.,5
+135,Perhatian,"Penderita dengan riwayat ulkus peptikum yang berat dan aktif, penderita dengan gangguan fungsi hati dan ginjal, kehamilan tiga bulan terakhir, laktasi, penderita bronkhospastik terhadap acetocal, asma, rintis dan urtikaria, hipertensi.",6
+135,Kontra Indikasi,"Penderita yang hipersensitif dengan komponen obat, pengguna Aspirin, hamil dan menyusui, memiliki gangguan hati, ulkus peptikum.",7
+135,Efek Samping,"Mual, muntah, sembelit, reaksi kulit, sakit kepala. Penggunaan jangka lama dan dosis besar dapat menimbulkan kerusakan hati dan pendarahan di gastrointestinal.",8
+135,Kemasan,1 Strip @ 20 Tablet,9
+135,Manufaktur,Tempo Scan Pacific,10
+135,No. Registrasi,BPOM: DTL1122702410B1,11
+136,Product Description,"Antimo Tablet merupakan obat dengan kandungan Dimenhydrinate yang digunakan untuk mengatasi mual, muntah, dan pusing akibat mabuk perjalanan. Dimenhydrinate pada produk ini bekerja dengan cara menghambat produksi dan kerja histamin yang diproduksi tubuh, sehingga mencegah stimulasi saraf di otak dan telinga bagian dalam yang bisa menyebabkan mual, muntah, dan pusing.",1
+136,Indikasi Umum,"Antivertigo, anti mabok, pening dan mual selama perjalanan dengan kendaraan bermotor, kapal laut dan pesawat udara, baik untuk dewasa maupun anak-anak.",2
+136,Komposisi,Dimenhidrinat 50 mg.,3
+136,Dosis,"Dewasa dan anak di atas 12 tahun: 1 tablet (50 mg), sehari tidak lebih dari 8 tablet (400 mg). Anak usia 8-12 tahun : 0.5 tablet (25 mg), sehari tidak lebih dari 3 tablet (150 mg). Diminum 30 menit sebelum berpergian menggunakan kendaraan, bila perlu dapat diulang tiap 4 jam.",4
+136,Aturan Pakai,"nya. Tidak boleh digunakan pada bayi prematur dan bayi yang baru lahir. Hindari makanan dan minuman beralkohol selama mengonsumsi obat ini. Selama minum obat ini tidak boleh mengendarai kendaraan bermotor atau menjalankan mesin. Kategori kehamilan : Kategori B: Mungkin dapat digunakan oleh wanita hamil. Penelitian pada hewan uji tidak memperlihatkan ada nya risiko terhadap janin, namun belum ada bukti penelitian langsung terhadap wanita hamil.",5
+136,Perhatian,"Peringatan : Awas, Obat Keras Bacalah",6
+136,Kontra Indikasi,"Penderita gangguan hati, kondisi rendahnya kadar kalium dalam tubuh (hipokalemia), hipersensitif terhadap antihistamin, gangguan berkemih dan peningkatan tekanan bola mata (glaukoma).",7
+136,Efek Samping,"Mengantuk, lesu, pusing, dan gangguan keseimbangan (terutama pada anak-anak), sakit kepala, mulut kering, gangguan pergerakan, pandangan kabur, gangguan berkemih, gangguan saluran pencernaan seperti mual, diare, muntah, dan nyeri ulu hati, detak jantung tidak beraturan atau berdebar-debar.",8
+136,Kemasan,1 Strip @ 10 Tablet,9
+136,Manufaktur,Phapros,10
+136,No. Registrasi,BPOM: DTL7219929710A1,11
+137,Product Description,"Hansaplast Koyo Panas adalah Koyo yang ideal untuk Anda yang aktif berkegiatan. Hansaplast Koyo Hangat dapat meredakan semua jenis pegal dan nyeri secara efektif, seperti: Nyeri otot di leher, bahu atau punggung Nyeri sendi Sakit kepala atau sakit gigi Pegal dan linu Kram saat menstruasi.",1
+137,Indikasi Umum,"Meredakan semua jenis pegal dan nyeri secara efektif, seperti nyeri otot di leher, bahu atau punggung, nyeri sendi, sakit kepala atau sakit gigi, pegal dan linu, kram saat menstruasi.",2
+137,Komposisi,Synthetic Capsaicin 0.042.,3
+137,Dosis,Sesuai kebutuhan.,4
+137,Aturan Pakai,"Bersihkan bagian tubuh yang terasa sakit, lalu tempelkan Hansaplast Koyo. Ganti koyo bila rasa hangat berkurang.",5
+137,Perhatian,"Jangan digunakan pada luka kulit terbuka. Bila terjadi iritasi, hentikan pemakaian, Tidak untuk anak dibawah 2 tahun. Jangan digunakan langsung di bawah hidung.",6
+137,Efek Samping,Iritasi dan rasa panas yang berlebihan bagi kulit sensitif.,7
+137,Kemasan,1 Sachet @ 10 Lembar,8
+137,Manufaktur,Beiersdorf Indonesia,9
+137,No. Registrasi,BPOM: QL071800031,10
+138,Product Description,"Ichtyol merupakan obat salep kulit yang dikenal dengan Salep Hitam dan digunakan untuk mengobati eksim, psoriasis, jerawat atau bisul. Ichtyol mengandung zat aktif Ichtammol yang berasal dari destilat minyak mentah di mana terdapat kandungan belerang di dalamnya. Ichtammol memiliki sifat anti bakteri, anti fungal, dan antiinflamasi.",1
+138,Indikasi Umum,"Ichtyol Salep memiliki kegunaan untuk mengobati masalah kulit, antara lain bisul, eksema, psoriasis, dan kulit melepuh.",2
+138,Komposisi,Ichtammolum 100 mg.,3
+138,Dosis,Sesuai kebutuhan.,4
+138,Aturan Pakai,Oleskan pada bagian yang sakit setelah dibersihkan.,5
+138,Perhatian,Hanya untuk pemakaian luar tubuh. Penggunaan yang berlebihan dapat menyebabkan iritasi jaringan.,6
+138,Kontra Indikasi,"Penderita yang hipersensitif terhadap komponen obat, iritasi kulit.",7
+138,Efek Samping,Iritasi kulit.,8
+138,Kemasan,Pot @ 15 Gram,9
+138,Manufaktur,Cito,10
+138,No. Registrasi,BPOM: QD151713241,11
+139,Product Description,"Bodrexin merupakan tablet kunyah dengan kandungan Asam Asetilsalisilat. Obat ini digunakan untuk menurunkan panas, meredakan rasa nyeri, dan demam setelah imunisasi pada anak.",1
+139,Indikasi Umum,Menurunkan demam dan meringankan rasa nyeri pada anak-anak.,2
+139,Komposisi,Acetylsalicylic Acid 80 mg.,3
+139,Dosis,Anak 2-3 Tahun : 1 tablet. Anak 4-5 Tahun : 2 tablet. Anak 6-8 Tahun : 3 tablet. Jika perlu bisa diulang tiap 4 jam atau menurut petunjuk dokter.,4
+139,Aturan Pakai,Tablet harus diminum atau dihisap setelah makan.,5
+139,Perhatian,"Jangan melebihi dosis yang dianjurkan karena dapat menyebabkan kerusakan hati, kecuali atas petunjuk dokter. Penggunaan obat harus hati-hati pada penderita penyakit ginjal.",6
+139,Kontra Indikasi,"Ulkus peptikum, asma dan penggunaan bersama antikoagulan, penderita hemofilia dan trombositopenia, hipersensitif terhadap salisilat.",7
+139,Efek Samping,"Mual, muntah, sakit perut, mata berwarna kuning, pusing, urin berwarna gelap.",8
+139,Kemasan,"Box, 4 Strip @ 4 Tablet",9
+139,Manufaktur,Tempo Scan Pacific,10
+139,No. Registrasi,BPOM: DBL7222708910A1,11
+140,Product Description,SP Troches Strawberry Tablet merupakan tablet hisap dengan kandungan Dequalinium Chloride. Obat ini digunakan untuk membantu mengatasi infeksi bakteri dan fungi dalam ruang mulut dan tenggorokan.,1
+140,Indikasi Umum,Untuk infeksi bakteri dan fungi pada mulut dan tenggorokan.,2
+140,Komposisi,Dequalinium Chloride 0.25 mg.,3
+140,Dosis,"6 x sehari 1 tablet, tidak lebih dari 8 tablet sehari.",4
+140,Aturan Pakai,Tablet dihisap perlahan-lahan hingga larut dalam mulut tanpa dikunyah.,5
+140,Perhatian,Tidak dianjurkan penggunaan tablet ini untuk jangka waktu yang panjang. Belum terdapat data keamanan terkait penggunaan obat ini pada wanita hamil dan/atau menyusui. Konsultasikan kepada dokter apabila Anda sedang hamil dan/atau menyusui. Simpan pada suhu dibawah 30 C dan terlindung dari cahaya.,6
+140,Kontra Indikasi,Pasien yang hipersensitif terhadap obat.,7
+140,Efek Samping,"Pemakaian obat umumnya memiliki efek samping tertentu dan sesuai dengan masing-masing individu. Jika terjadi efek samping yang berlebih dan berbahaya, harap konsultasikan kepada tenaga medis.",8
+140,Kemasan,1 Strip @ 12 Tablet,9
+140,Manufaktur,Meiji,10
+140,No. Registrasi,BPOM: DBL9415301812A1,11
+141,Product Description,"FreshCare Vapobalm Matcha 2in1 adalah Balsem dengan Double Inhaler pertama dan satu-satunya di Indonesia, dg Aroma Matcha - seperti FreshCare Smash Matcha, favorit pengguna FreshCare.",1
+141,Indikasi Umum,"Membantu meredakan gejala masuk angin, batuk dan pilek karena flu, perut kembung, pusing, mabuk perjalanan, pegal-pegal, dan gatal akibat gigitan serangga. Sebagai inhaler aromatherapy untuk menyegarkan dan melegakan hidung tersumbat",2
+141,Dosis,Gunakan sesuai kebutuhan.,3
+141,Aturan Pakai,"Gosokkan balsem pada bagian seperti kening, dada, leher, atau bagian tubuh yang pegal. Untuk inhaler, hirup aroma melalui inhaler bila hidung tersumbat atau saat ingin efek aromaterapi",4
+141,Perhatian,Gunakan hanya untuk pemakaian luar.,5
+141,Kontra Indikasi,Hipersensitif.,6
+141,Kemasan,Can @ 10 Gram,7
+141,Manufaktur,"Ultra Sakti ,Pt.",8
+141,No. Registrasi,BPOM RI: QD257025381,9
+142,Product Description,"Tera F Tablet mengandung zat aktif Paracetamol, Guaiphenesin, Phenylpropanolamine HCl, dan Chlorpheniramine maleat. Obat ini digunakan untuk meringankan gejala flu seperti demam, sakit kepala, bersin-bersin dan hidung tersumbat yang disertai batuk. Obat ini menyebabkan kantuk. Sebaiknya jangan mengendarai kendaraan bermotor dan menjalankan mesin ketika mengkonsumsi obat ini.",1
+142,Indikasi Umum,"Untuk meringankan gejala flu seperi demam, sakit kepala, hidung tersumbat, dan bersin-bersin yang disertai batuk.",2
+142,Komposisi,"Paracetamol 650 mg, Glyceryl guaiacolate 50 mg, Phenylpropanolamine HCL 15 mg, Chlorpheniramine maleate 2 mg.",3
+142,Dosis,Dewasa dan anak>12 tahun : 3-4 kali sehari 1 kaplet Anak-anak 6 -12 tahun : 3-4 kali sehari 0.5 kaplet.,4
+142,Aturan Pakai,Dikonsumsi sesudah makan.,5
+142,Perhatian,"Hati-hati penggunaan pada penderita gangguan fungsi hati dan ginjal glaukoma, hipertrofi prostat. Tidak dianjurkan penggunaan pada anak usia dibawah 6 tahun,wanita hamil dan menyusui, kecuali atas petunjuk dokter. Selama minum obat ini tidak boleh mengendarai kendaraan dan mengoperasikan mesin. Hati-hati penggunaan bersamaan dengan obat-obat yang menekan susunan pusat syaraf.",6
+142,Kontra Indikasi,Penderita yang hipersensitif terhadap komponen obat ini. Penderita dengan gangguan jantung dan diabetes mellitus. Penderita dengan gangguan fungsi hati yang berat.,7
+142,Efek Samping,"Sakit kepala, bingung, cemas, pusing, gelisah, insomnia, agitasi, palpitasi, tremor, kantuk, penglihatan kabur.",8
+142,Kemasan,1 Strip @ 10 Kaplet,9
+142,Manufaktur,Rama Emerald Multi Sukses,10
+142,No. Registrasi,BPOM: DTL9628908504A1,11
+143,Product Description,"Sumagesic merupakan obat yang dapat digunakan untuk meringankan rasa sakit pada sakit kepala, sakit gigi, dan menurunkan demam.",1
+143,Indikasi Umum,"Obat ini digunakan untuk meringankan rasa sakit pada sakit kepala, sakit gigi dan menurunkan demam.",2
+143,Komposisi,Tiap tablet mengandung Paracetamol 600 mg.,3
+143,Dosis,"Dewasa : 1 tablet, 3-4 kali sehari atau sesuai petunjuk dokter.",4
+143,Aturan Pakai,Obat diminum sebelum atau setelah makan.,5
+143,Perhatian,Hati-hati penggunaan obat ini pada penderita penyakit ginjal. Bila setelah 2 hari demam tidak menurun atau setelah 5 hari nyeri tidak menghilang segera hubungi Unit Pelayanan Kesehatan.,6
+143,Kontra Indikasi,"Penderita gangguan fungsi hati yang berat, dan penderita yang hipersensitif atau alergi terhadap Paracetamol.",7
+143,Efek Samping,Efek samping yang mungkin terjadi dalam penggunaan obat adalah: Penggunaan untuk jangka waktu lama dan dosis besar dapat menyebabkan kerusakan fungsi hati. Reaksi hipersensitifitas/ alergi.,8
+143,Kemasan,1 Strip @ 4 Tablet,9
+143,Manufaktur,Medifarma,10
+143,No. Registrasi,BPOM: DBL7814710810A1,11
+144,Product Description,"Disflatyl 40 mg Tablet merupakan obat yang mengandung Simethicon, digunakan untuk meredakan kembung dan rasa tidak nyaman diperut karena gas yang berlebihan.",1
+144,Indikasi Umum,Meredakan kembung dan rasa tidak nyaman diperut karena gas yang berlebihan.,2
+144,Komposisi,Simethicone 40 mg.,3
+144,Dosis,maksimal: 500 mg/24 jam dengan anjuran dan pengawasan dokter.,4
+144,Aturan Pakai,Diberikan sesudah makan. Dikunyah sampai halus.,5
+144,Perhatian,Konsultasikan dengan dokter sebelum menggunakan Disflatyl tablet untuk ibu hamil atau menyusui.,6
+144,Kontra Indikasi,"Hipersensitif, Aritmia, Hipokalsemia, Hipomagnesia, CHF, Jantung Iskemik.",7
+144,Efek Samping,"Pemakaian obat umumnya memiliki efek samping tertentu dan sesuai dengan masing-masing individu. Jika terjadi efek samping yang berlebih dan berbahaya, harap konsultasikan kepada tenaga medis. Efek samping yang mungkin terjadi dalam penggunaan obat adalah: sendawa.",8
+144,Kemasan,1 Strip @ 10 Tablet,9
+144,Manufaktur,Pharos,10
+144,No. Registrasi,BPOM: DBL1940404763A1,11
+145,Product Description,"Herocyn Baby Powder merupakan bedak tabur yang diformulasikan khusus untuk menjaga kesehatan kulit bayi dari gatal-gatal, kemerahan, serta biang keringat.",1
+145,Indikasi Umum,Mengurangi iritasi dan kemerahan di kulit bayi. Meredakan gatal-gatal akibat biang keringat. Menjadikan kulit terasa lebih halus dan lembut.,2
+145,Komposisi,"Talc, Zinc Stearate, Zinc Oxide, Parfume.",3
+145,Dosis,Digunakan setelah memandikan bayi atau sesuai kebutuhan.,4
+145,Aturan Pakai,Taburkan bedak bayi Herocyn pada lipatan-lipatan kulit serta seluruh tubuh bayi sehabis mandi.,5
+145,Perhatian,"Hanya untuk pemakaian luar. Hindari menabur bedak di dekat mata, hidung, atau mulut bayi. Hentikan pemakaian jika terjadi reaksi alergi.",6
+145,Kontra Indikasi,Penderita alergi parah terhadap salah satu kandungan bedak tabur ini.,7
+145,Kemasan,Botol @ 100 Gram,8
+145,Manufaktur,Coronet Crown,9
+145,No. Registrasi,BPOM: NA18140400234,10
+146,Product Description,"Minyak Kayu Putih Plus Cap Lang mengandung Eucalyptus Oil 100%. Minyak kayu putih cap lang dengan aromaterapi digunakan untuk meringankan sakit perut, perut kembung, rasa mual, gatal-gatal akibat gigitan serangga/nyamuk.",1
+146,Indikasi Umum,"Membantu meringankan sakit perut, perut kembung, rasa mual, dan gatal-gatal akibat gigitan nyamuk atau serangga.",2
+146,Komposisi,Oleum Cajuputi.,3
+146,Dosis,Gunakan secukupnya.,4
+146,Aturan Pakai,Oleskan pada bagian yang membutuhkan. Ulangi pemakaian untuk memperpanjang perlindungannya.,5
+146,Kemasan,Botol @ 120 ml,6
+146,Manufaktur,Eagle Indo Pharma,7
+146,No. Registrasi,BPOM: TR142679841,8
+147,Product Description,"Incidal OD Kapsul 10 mgadalah obat yang digunakan untuk gejala alergi, seperti mata dan hidung berair, gatal pada mata atau hidung, dan gatal pada kulit. Obat ini juga dapat mengatasirhinitis alergitahunan dan musiman serta urtikaria (biduran). Incidal OD Kapsul mengandung zat aktifcetirizineyang mampu meredakan gejala alergi dengan cara menghalangi kerja senyawa histamin. Senyawa ini dilepas tubuh ketika terpapar alergen, yaitu zat yang menyebabkan alergi.",1
+147,Indikasi Umum,"Mengatasi peradangan pada rongga hidung (rinitis), rinitis akibat alergi, serta mengatasi biduran kronis yang belum jelas penyebabnya (urtikaria idiopatik kronik).",2
+147,Komposisi,Cetirizine HCl 10 mg.,3
+147,Dosis,"yang dianjurkan: Dewasa & anak umur >12 tahun: 10 mg sekali sehari. Anak umur 2-6 tahun: 2,5 mg dua kali sehari. Anak umur 6-12 tahun: 5 mg dua kali sehari. Lansia: Belum ada data untuk menurunkan dosis pada pasien lansia. Insufisiensi ginjal: dosis 1/2 kali dosis yang dianjurkan.",4
+147,Aturan Pakai,Dapat dikonsumsi sebelum atau sesudah makan.,5
+147,Perhatian,Dapat mengganggu kemampuan menyetir atau menjalankan mesin,6
+147,Kontra Indikasi,"Pasien dengan gangguan fungsi ginjal yang berat, wanita hamil trimester pertama, dan ibu menyusui.",7
+147,Efek Samping,"Mengantuk, sakit kepala, pusing, gelisah (agitasi), mulut kering, gangguan pada saluran pencernaan, reaksi alergi pada kulit, dan pembengkakan sebaai reaksi alergi (angioderma).",8
+147,Kemasan,1 Strip @ 4 Kapsul,9
+147,Manufaktur,Bayer Indonesia,10
+147,No. Registrasi,BPOM: DKL9902001301A1,11
+148,Product Description,"Antimo Anak adalah obat untuk mengatasi mabuk perjalanan yang dialami anak-anak. Obat ini mengandung zat aktif dimenhydrinate. Dimenhydrinate adalah obat yang biasanya digunakan untuk mencegah dan mengobati mabuk perjalanan serta mual dan muntah yang berhubungan dengan berbagai kondisi, seperti kemoterapi, radiasi, dan pembedahan.",1
+148,Indikasi Umum,Mengatasi mual dan muntah dalam perjalanan.,2
+148,Komposisi,"Dimenhydranite 12,5 mg.",3
+148,Dosis,"Anak-anak 2-6 tahun: 1-2 sachet setiap 6 atau 8 jam/hari, maksimal 75 mg sehari. 6-12 tahun: 2 sachet setiap 6-8 jam/hari, maksimal 150 mg sehari.",4
+148,Aturan Pakai,"Dikonsumsi 30 menit sebelum berpergian, jika perlu dapat diulang tiap 4 jam.",5
+148,Perhatian,Efek antiemetik atau antimuntahnya dapat mengganggu diagnosis pada kondisi peradangan pada usus buntu atau apendix (appendicitis) dan dapat menutupi tanda-tanda keracunan atau toksik akibat over dosis obat lain. Selama mengonsumsi Antimo tidak boleh mengendarai kendaraan bermotor atau menjalankan mesin. Hindari mengonsumsi makanan dan minuman berakohol.,6
+148,Kontra Indikasi,Pasien dengan kadar kalium rendah (hipokalemia). Pasien penderita peningkatan tekanan pada bola mata (glaukoma). Pasien penderita gangguan kandung kemih sehingga tidak bisa mengeluarkan urine (retensi urine). Bayi baru lahir dan prematur. Pasien yang alergi terhadap komponen obat ini. Pasien penderita gangguan hati.,7
+148,Efek Samping,"Depresi susunan saraf pusat seperti mengantuk, lesu pusing dan gangguan koordinasi (terutama pada anak-anak), sakit kepala, gangguan psikomotor, efek antimuskarinik seperti mulut kering, pandangan kabur, retensi urin, konstipasi dan peningkatan refluks lambung, gangguan saluran cerna seperti mual, muntah, diare dan nyeri epigastrik, aritmia jantung atau palpitasi.",8
+148,Kemasan,1 Sachet @ 5 ml,9
+148,Manufaktur,Phapros,10
+148,No. Registrasi,BPOM: DTL0319923833A1,11
+149,Product Description,"Polysilane Tablet merupakan obat dengan kandungan Al(OH)3, Mg(OH)2, Polydimethylsiloxane. Obat ini digunakan untuk mengurangi gejala-gejala yang berhubungan dengan: kelebihan asam lambung, gastritis, tukak lambung, tukak usus 12 jari, mual, nyeri lambung, nyeri ulu hati, kembung dan perasaan penuh pada lambung.",1
+149,Indikasi Umum,"Sakit maag, rasa panas atau terbakar pada uluhati atau kerongkongan, Pirosis, Gastritis, Perut kembung.",2
+149,Komposisi,"Alumunium Hydroxide 200 mg, Mg Hydroxide 200 mg, Dimethicone 80 mg.",3
+149,Dosis,Dewasa: 3-4 kali sehari 1-2 tablet. Anak > 4 tahun: 2 tablet per hari.,4
+149,Aturan Pakai,"Berikan sebelum makan, pada saat perut kosong (dikunyah).",5
+149,Perhatian,Penggunaan jangka panjang dan dosis tinggi dapat menyebabkan kerusakan fungsi ginjal. Tidak dianjurkan pemberian pada anak-anak di bawah 6 tahun kecuali atas petunjuk dokter.,6
+149,Kontra Indikasi,Hipersensitif dan penderita gangguan ginjal berat.,7
+149,Efek Samping,"Sembelit, diare, mual, muntah dan deplesi fosfat.",8
+149,Kemasan,1 Strip @ 8 Tablet,9
+149,Manufaktur,Pharos,10
+149,No. Registrasi,BPOM: DBL7821624163A1,11
+150,Product Description,"New Diatabs Tablet merupakan obat antidiare dengan kandungan Attapulgit 600 mg. Obat ini dapat digunakan untuk pengobatan simtomatik pada diare non-spesifik, yaitu diare yang tidak diketahui penyebabnya dengan jelas. New Diatabs bekerja dengan cara mengadsorbsi beberapa racun dan bakteri penyebab diare, mengurangi frekuensi buang air besar, serta memperbaiki konsistensi feses yang encer.",1
+150,Indikasi Umum,"Obat ini dapat digunakan untuk pengobatan simtomatik pada diare non-spesifik, yaitu diare yang tidak diketahui penyebabnya dengan jelas.",2
+150,Komposisi,Setiap tablet mengandung Activated attapulgite 600 mg.,3
+150,Dosis,"Dewasa dan anak-anak (12 tahun atau lebih) : 2 tablet setiap setelah buang air besar, maksimum penggunaan 12 tablet dalam waktu 24 jam. Anak-anak (6-12 tahun) : 1 tablet setiap setelah buang air besar, maksimum penggunaan 6 tablet dalam waktu 24 jam. Jika gejala-gejala masih berlangsung terus, harap berkonsultasi dengan dokter.",4
+150,Aturan Pakai,Sebelum atau sesudah makan.,5
+150,Perhatian,"Diare dapat mengakibatkan kehilangan cairan dan elektrolit atau dehidrasi oleh karena itu diperlukan terapi rehidrasi (cairan rehidrasi oral seperti oralit). Jika diare pada anak-anak disertai dengan dehidrasi, maka pengobatan awal harus diberikan cairan rehidrasi oral, seperti oralit. Dapat mempengaruhi absorbsi obat lain di dalam saluran pencernaan, oleh karena itu dianjurkan interval waktu 2-3 jam antara pemberian oral obat lain dengan obat ini. Jangan digunakan lebih dari 2 hari atau pada keadaan demam tinggi. Jangan diberikan pada anak-anak usia kurang dari 3 tahun, kecuali atas petunjuk dokter. Jika gejala-gejala masih berlangsung terus, harap berkonsultasi dengan dokter.",6
+150,Kontra Indikasi,Obat ini tidak boleh diberikan pada pasien dimana konstipasi harus dihindari. Hipersensitif terhadap activated attapulgit.,7
+150,Efek Samping,"Konstipasi, biasanya ringan dan bersifat sementara.",8
+150,Kemasan,1 Strip @ 4 Tablet,9
+150,Manufaktur,Medifarma,10
+150,No. Registrasi,BPOM: DBL9114702610A1,11

@@ -1,0 +1,51 @@
+id,nama,harga,diskon_persen,kategori,path_gambar
+1,Paracetamol 500 mg Tablet First Medifarma (10 Tablet),3500,0,Obat Bebas,products/Paracetamol-500-mg-Tablet-First-Medifarma-(10-Tablet).jpg
+2,Alkohol Swab Onemed Tissue Alkohol Antiseptik (100 Pcs),15500,0,Obat Bebas,products/Alkohol-Swab-Onemed-Tissue-Alkohol-Antiseptik-(100-Pcs).jpg
+3,Peditox untuk Pencegahan dan Pengobatan Epidemi Kuti Rambut (50 ml),12700,0,Obat Bebas,products/Peditox-untuk-Pencegahan-dan-Pengobatan-Epidemi-Kuti-Rambut-(50-ml).jpg
+4,Antimo Anak Sirup Straw 5 ml untuk Mabuk Perjalanan (Pack - 10 Sachet),28000,0,Obat Bebas,products/Antimo-Anak-Sirup-Straw-5-ml-untuk-Mabuk-Perjalanan-(Pack---10-Sachet).jpg
+5,Demacolin untuk Meringankan Gejala Flu (10 Tablet),6200,0,Obat Bebas,products/Demacolin-untuk-Meringankan-Gejala-Flu-(10-Tablet).jpg
+6,Sanmol Forte Meringankan Sakit Kepala dan Demam (4 Tablet),3600,0,Obat Bebas,products/Sanmol-Forte-Meringankan-Sakit-Kepala-dan-Demam-(4-Tablet).jpg
+7,Koyo Salonpas Biru Pereda Nyeri Otot/Pegal Linu (10 Lembar),9200,0,Obat Bebas,products/Koyo-Salonpas-Biru-Pereda-Nyeri-OtotmiringPegal-Linu-(10-Lembar).jpg
+8,Lacto-B Menjaga Saluran Pencernaan Anak (10 Sachet),104000,0,Obat Bebas,products/Lacto-B-Menjaga-Saluran-Pencernaan-Anak-(10-Sachet).jpg
+9,Degirol Lemon untuk Mengobati Sakit Tenggorokan &amp; Radang (10 Tablet),15300,0,Obat Bebas,products/Degirol-Lemon-untuk-Mengobati-Sakit-Tenggorokan-&amp;-Radang-(10-Tablet).jpg
+10,Sanmol Membantu Meringankan Sakit Kepala dan Demam (4 Tablet),2500,0,Obat Bebas,products/Sanmol-Membantu-Meringankan-Sakit-Kepala-dan-Demam-(4-Tablet).jpg
+11,Freshcare Smash Double Inhaler + Roll On Fruity (8 ml),14000,0,Obat Bebas,products/Freshcare-Smash-Double-Inhaler-plus-Roll-On-Fruity-(8-ml).jpg
+12,Strocain P 400 mg untuk Mengatasi Kelebihan Asam Lambung (10 Tablet),34000,0,Obat Bebas,products/Strocain-P-400-mg-untuk-Mengatasi-Kelebihan-Asam-Lambung-(10-Tablet).jpg
+13,Freshcare Smash Matcha Inhaler + Roll On (8 ml),16000,0,Obat Bebas,products/Freshcare-Smash-Matcha-Inhaler-plus-Roll-On-(8-ml).jpg
+14,Esemag Sidomuncul untuk Meringankan Gangguan Lambung (5 Sachet),10000,0,Obat Bebas,products/Esemag-Sidomuncul-untuk-Meringankan-Gangguan-Lambung-(5-Sachet).jpg
+15,Bodrex untuk Meringankan Sakit Kepala (20 Tablet),10200,0,Obat Bebas,products/Bodrex-untuk-Meringankan-Sakit-Kepala-(20-Tablet).jpg
+16,Paratusin untuk Meringankan Gejala Flu (10 Tablet),17300,0,Obat Bebas,products/Paratusin-untuk-Meringankan-Gejala-Flu-(10-Tablet).jpg
+17,Hansaplast Salep Luka (20 Gram),52100,0,Obat Bebas,products/Hansaplast-Salep-Luka-(20-Gram).jpg
+18,Balsem Telon Tresno Joyo Meringankan Gejala Flu Anak (20 Gram),8600,0,Obat Bebas,products/Balsem-Telon-Tresno-Joyo-Meringankan-Gejala-Flu-Anak-(20-Gram).jpg
+19,Sriti Krim Mengobati Segala Macam Masalah Kulit (10 Gram),11500,0,Obat Bebas,products/Sriti-Krim-Mengobati-Segala-Macam-Masalah-Kulit-(10-Gram).jpg
+20,Paracetamol 500 mg untuk Menurunkan Demam (10 Kaplet),3800,0,Obat Bebas,products/Paracetamol-500-mg-untuk-Menurunkan-Demam-(10-Kaplet).jpg
+21,Combantrin 250 mg untuk Mengurangi Infeksi Cacing (2 Tablet),21900,0,Obat Bebas,products/Combantrin-250-mg-untuk-Mengurangi-Infeksi-Cacing-(2-Tablet).jpg
+22,Dexanta Mengatasi Maag &amp; Asam Lambung (10 Tablet),2600,0,Obat Bebas,products/Dexanta-Mengatasi-Maag-&amp;-Asam-Lambung-(10-Tablet).jpg
+23,Hufamag Plus Mengatasi Maag &amp; Asam Lambung (10 Tablet),4000,0,Obat Bebas,products/Hufamag-Plus-Mengatasi-Maag-&amp;-Asam-Lambung-(10-Tablet).jpg
+24,"Counterpain untuk Meredakan Nyeri Otot, Sendi, Keseleo (5 Gram)",10700,0,Obat Bebas,"products/Counterpain-untuk-Meredakan-Nyeri-Otot,-Sendi,-Keseleo-(5-Gram).jpg"
+25,Betadine Sol Antiseptik untuk Luka atau Infeksi Kulit (5 ml),7200,0,Obat Bebas,products/Betadine-Sol-Antiseptik-untuk-Luka-atau-Infeksi-Kulit-(5-ml).jpg
+26,Vicks Vaporub Melegakan Hidung Tersumbat (10 Gram),10400,0,Obat Bebas,products/Vicks-Vaporub-Melegakan-Hidung-Tersumbat-(10-Gram).jpg
+27,Paramex untuk Meringankan Sakit Kepala &amp; Sakit Gigi (4 Tablet),2700,0,Obat Bebas,products/Paramex-untuk-Meringankan-Sakit-Kepala-&amp;-Sakit-Gigi-(4-Tablet).jpg
+28,Panadol Merah Extra untuk Meredakan Sakit Kepala (10 Tablet),13700,0,Obat Bebas,products/Panadol-Merah-Extra-untuk-Meredakan-Sakit-Kepala-(10-Tablet).jpg
+29,Fasidol 500 mg untuk Menurunkan Demam &amp; Meredakan Nyeri (10 Kaplet),4500,0,Obat Bebas,products/Fasidol-500-mg-untuk-Menurunkan-Demam-&amp;-Meredakan-Nyeri-(10-Kaplet).jpg
+30,Fasidol 500 mg untuk Menurunkan Demam &amp; Meredakan Nyeri (10 Kaplet),4500,0,Obat Bebas,products/Fasidol-500-mg-untuk-Menurunkan-Demam-&amp;-Meredakan-Nyeri-(10-Kaplet).jpg
+31,Bodrex Extra untuk Meredakan Sakit Kepala (4 Tablet),2700,0,Obat Bebas,products/Bodrex-Extra-untuk-Meredakan-Sakit-Kepala-(4-Tablet).jpg
+32,Koyo Salonpas Hot Merah Pereda Nyeri Otot/Pegal Linu (10 Lembar),9500,0,Obat Bebas,products/Koyo-Salonpas-Hot-Merah-Pereda-Nyeri-OtotmiringPegal-Linu-(10-Lembar).jpg
+33,Neozep Forte untuk Meringankan Gejala Flu (4 Kaplet),3300,0,Obat Bebas,products/Neozep-Forte-untuk-Meringankan-Gejala-Flu-(4-Kaplet).jpg
+34,"Panadol Biru untuk Meredakan Sakit Kepala, Nyeri, Demam (10 Tablet)",12500,0,Obat Bebas,"products/Panadol-Biru-untuk-Meredakan-Sakit-Kepala,-Nyeri,-Demam-(10-Tablet).jpg"
+35,Neo Rheumacyl Membantu Meredakan Nyeri Otot (20 Tablet),10000,0,Obat Bebas,products/Neo-Rheumacyl-Membantu-Meredakan-Nyeri-Otot-(20-Tablet).jpg
+36,Antimo Tablet Mengatasi Mabuk Perjalanan (10 Tablet),5900,0,Obat Bebas,products/Antimo-Tablet-Mengatasi-Mabuk-Perjalanan-(10-Tablet).jpg
+37,Hansaplast Koyo Panas Pereda Nyeri Otot/Pegal Linu (10 Pcs),10200,0,Obat Bebas,products/Hansaplast-Koyo-Panas-Pereda-Nyeri-OtotmiringPegal-Linu-(10-Pcs).jpg
+38,Ichtyol Cito Salep untuk Mengatasi Bisul (15 Gram),8400,0,Obat Bebas,products/Ichtyol-Cito-Salep-untuk-Mengatasi-Bisul-(15-Gram).jpg
+39,Bodrexin untuk Menurunkan Demam (16 Tablet),6400,0,Obat Bebas,products/Bodrexin-untuk-Menurunkan-Demam-(16-Tablet).jpg
+40,SP Troches Strawberry Antiseptik Mulut &amp; Tenggorokan (12 Tablet),16100,0,Obat Bebas,products/SP-Troches-Strawberry-Antiseptik-Mulut-&amp;-Tenggorokan-(12-Tablet).jpg
+41,Freshcare Vapobalm Matcha Balsem dan Double Inhaler (10 Gram),16500,0,Obat Bebas,products/Freshcare-Vapobalm-Matcha-Balsem-dan-Double-Inhaler-(10-Gram).jpg
+42,Tera-F Meringankan Gejala Flu (10 Kaplet),5800,0,Obat Bebas,products/Tera-F-Meringankan-Gejala-Flu-(10-Kaplet).jpg
+43,Sumagesic 600 mg untuk Menurunkan Demam dan Sakit Kepala (4 Tablet),3100,0,Obat Bebas,products/Sumagesic-600-mg-untuk-Menurunkan-Demam-dan-Sakit-Kepala-(4-Tablet).jpg
+44,Disflatyl 40 mg untuk Meredakan Kembung (10 Tablet),7500,0,Obat Bebas,products/Disflatyl-40-mg-untuk-Meredakan-Kembung-(10-Tablet).jpg
+45,Bedak Herocyn Baby Powder untuk Mengatasi Rasa Gatal (100 Gram),9100,0,Obat Bebas,products/Bedak-Herocyn-Baby-Powder-untuk-Mengatasi-Rasa-Gatal-(100-Gram).jpg
+46,Minyak Kayu Putih Plus Cap Lang untuk Masuk Angin / Perut Kembung (120 ml),64400,0,Obat Bebas,products/Minyak-Kayu-Putih-Plus-Cap-Lang-untuk-Masuk-Angin-miring-Perut-Kembung-(120-ml).jpg
+47,Incidal OD 10 mg (4 Kapsul),20000,0,Obat Bebas,products/Incidal-OD-10-mg-(4-Kapsul).jpg
+48,Antimo Anak Syr Jeruk Sachet 5Ml,2800,0,Obat Bebas,products/Antimo-Anak-Syr-Jeruk-Sachet-5Ml.jpg
+49,Polysilane untuk Meredakan Maag &amp; Kembung (8 Tablet),9400,0,Obat Bebas,products/Polysilane-untuk-Meredakan-Maag-&amp;-Kembung-(8-Tablet).jpg
+50,New Diatabs untuk Mengatasi Diare (4 Tablet),3400,0,Obat Bebas,products/New-Diatabs-untuk-Mengatasi-Diare-(4-Tablet).jpg
