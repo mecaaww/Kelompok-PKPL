@@ -184,3 +184,20 @@ it('simpan() memuat data obat dengan satu query saja', function () {
     expect($queryObat)->toBe(1);
 })->group('NFR-013');
 
+// NFR-014 / TC-PERF-3: produk utama memakai pagination
+it('index() membatasi produk utama per halaman', function () {
+    isiObatUji(30);
+
+    $data = (new HomeController)->index(Request::create('/', 'GET'))->getData();
+
+    expect($data['produkSemua']->count())->toBeLessThanOrEqual(18);
+})->group('NFR-014');
+
+// NFR-014 / TC-PERF-4: produk diskon juga dibatasi
+it('index() membatasi jumlah produk diskon yang dimuat', function () {
+    isiObatUji(30, ['diskon_persen' => 50]);
+
+    $data = (new HomeController)->index(Request::create('/', 'GET'))->getData();
+
+    expect($data['produkDiskon']->count())->toBeLessThanOrEqual(18);
+})->group('NFR-014');
