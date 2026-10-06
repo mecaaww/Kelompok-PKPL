@@ -34,3 +34,23 @@ it('proyek memiliki aturan indentasi dan format dasar', function () {
         ->toContain('indent_size = 4')
         ->toContain('trim_trailing_whitespace = true');
 });
+
+// Pertanyaan 3: Apakah rumus diskon tidak banyak diduplikasi?
+it('logika perhitungan diskon tidak tersebar pada banyak view', function () {
+    $files = [
+        'resources/views/home.blade.php',
+        'resources/views/partials/_produk_grid.blade.php',
+        'resources/views/products/detail_product.blade.php',
+        'resources/views/products/keranjang_product.blade.php',
+    ];
+
+    $filesDenganRumusDiskon = array_values(array_filter(
+        $files,
+        fn (string $file): bool => str_contains(
+            sourceCode($file),
+            '$harga * (100 - $diskon) / 100'
+        ),
+    ));
+
+    expect($filesDenganRumusDiskon)->toHaveCount(1);
+});
