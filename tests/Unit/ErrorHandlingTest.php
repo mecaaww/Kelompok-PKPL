@@ -83,4 +83,27 @@ it('simpan() membalas 400 saat keranjang kosong', function () {
         ->and($response->getData(true)['message'])->toBe('Keranjang kosong');
 })->group('NFR-009');
 
+// NFR-0010 / TC-EH-4: login dengan kredensial salah menampilkan pesan yang jelas
+it('login() menampilkan pesan jelas saat email atau password salah', function () {
+    $request = Request::create('/login', 'POST', [
+        'email' => 'tidak.ada@example.com',
+        'password' => 'salah',
+    ]);
 
+    $response = (new AuthController)->login($request);
+
+    expect($response->getSession()->get('error'))->toBe('Email atau password salah');
+})->group('NFR-010');
+
+// NFR-0010 / TC-EH-5: login dengan field kosong menampilkan pesan validasi yang jelas
+it('login() memberi pesan validasi yang jelas saat field kosong', function () {
+    $pesan = null;
+
+    try {
+        (new AuthController)->login(Request::create('/login', 'POST', []));
+    } catch (ValidationException $e) {
+        $pesan = $e->errors()['email'][0] ?? null;
+    }
+
+    expect($pesan)->toBe('Email wajib diisi');
+})->group('NFR-010');
