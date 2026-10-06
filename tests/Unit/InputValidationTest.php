@@ -19,3 +19,20 @@ it('penambahan keranjang memvalidasi obat dan jumlah', function () {
         ->toContain("'jumlah' => 'required|integer|min:1'");
 })->group('NFR-007');
 
+// NFR-008 / TC-VALID-3: checkout dan status pesanan seharusnya divalidasi di server.
+it('checkout dan perubahan status memiliki validasi server', function () {
+    $checkout = sourceCode('app/Http/Controllers/PesananController.php');
+    $statusPesanan = sourceCode('app/Http/Controllers/Admin/PesananController.php');
+
+    $tanpaValidasi = [];
+
+    if (! str_contains($checkout, '$request->validate(')) {
+        $tanpaValidasi[] = 'PesananController::simpan()';
+    }
+
+    if (! str_contains($statusPesanan, '$request->validate(')) {
+        $tanpaValidasi[] = 'Admin\PesananController::updateStatus()';
+    }
+
+    expect($tanpaValidasi)->toBeEmpty();
+});
