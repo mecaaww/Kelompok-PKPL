@@ -42,4 +42,16 @@ it('fungsi utama memiliki komentar penjelasan singkat', function () {
     expect(methodTanpaDocblock($utama))->toBe([]);
 })->group('NFR-011');
 
+// NFR-012 / TC-DOC-3: README menjelaskan cara instalasi
+it('README menjelaskan cara instalasi aplikasi', function () {
+    $readme = file_get_contents(base_path('README.md'));
 
+    expect($readme)->toMatch('/composer (install|setup)/i');
+})->group('NFR-012');
+
+// NFR-012 / TC-DOC-4: README menjelaskan cara menjalankan aplikasi
+it('README menjelaskan cara menjalankan aplikasi', function () {
+    $readme = file_get_contents(base_path('README.md'));
+
+    expect($readme)->toMatch('/(php artisan serve|composer dev)/i');
+})->group('NFR-012');
