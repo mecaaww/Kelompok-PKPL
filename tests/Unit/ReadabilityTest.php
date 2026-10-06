@@ -24,3 +24,13 @@ it('nama class method dan variabel utama mudah dipahami', function () {
         ->toContain('class AuthController')
         ->toContain('public function login');
 });
+
+// Pertanyaan 2: Apakah proyek memiliki aturan struktur dan indentasi?
+it('proyek memiliki aturan indentasi dan format dasar', function () {
+    $editorConfig = sourceCode('.editorconfig');
+
+    expect($editorConfig)
+        ->toContain('indent_style = space')
+        ->toContain('indent_size = 4')
+        ->toContain('trim_trailing_whitespace = true');
+});
