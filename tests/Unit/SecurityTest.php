@@ -10,3 +10,11 @@ it('password pendaftaran disimpan menggunakan hash', function () {
         ->not->toContain("'password' => \$request->password,");
 })->group('NFR-004');
 
+// NFR-005 / TC-SEC-2: query detail pesanan membatasi data berdasarkan pemiliknya.
+it('detail pesanan memeriksa pemilik pesanan', function () {
+    $pesanan = sourceCode('app/Http/Controllers/PesananController.php');
+
+    expect($pesanan)->toContain("->where('user_id', \$user->id)")
+        ->toContain('firstOrFail()');
+})->group('NFR-005');
+
